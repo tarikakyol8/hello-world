@@ -1,2 +1,2 @@
 # hello-world
-My welcome projecy for github
+My welcome project for github
